@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <h1 align="center">VPGS-SLAM: Voxel-based Progressive 3D Gaussian
+  <h1 align="center">VPGS-SLAM: Voxel-based Progressive 3D Gaussian 
 SLAM in Large-Scale Scenes</h1>
   <div align="center"></div>
 </p>
