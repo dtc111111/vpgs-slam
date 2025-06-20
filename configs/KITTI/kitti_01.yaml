@@ -1,0 +1,14 @@
+inherit_from: configs/KITTI/Kitti.yaml
+data:
+  input_path: /home/liyuanzhu/projects/GSR/MonoGS/datasets/scannet/scene0000_00
+  output_path: output/ScanNet/scene0000
+  scene_name: scene0000_00
+cam: 
+  H: 375 
+  W: 1242
+  fx: 9.037596e+02
+  fy: 9.019653e+02
+  cx: 6.957519e+02
+  cy: 2.242509e+02
+  depth_scale: 1.
+  crop_edge: 12
